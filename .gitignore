@@ -1,0 +1,8 @@
+session.lock
+logs/
+crash-reports/
+*.tmp
+icon.png
+level.dat_old
+playerdata/*.dat_old
+advancements/*.json_old
